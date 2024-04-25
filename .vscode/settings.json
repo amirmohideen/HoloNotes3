@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HoloNotes2.sln"
+    "dotnet.defaultSolution": "HoloNotes3.sln"
 }
